@@ -1,3 +1,3 @@
-name - Ger
+name - Ger Cipuri
 num - 123
 
